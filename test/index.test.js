@@ -1,6 +1,7 @@
 import { clonarArreglo, clonarObjeto, sumar, saludar } from "../src/ejercicio3";
 
 describe("Ejercicio3", () => {
+  
   it("clonarArreglo", () => {
     const arr = [1,2,3]
     const result = clonarArreglo(arr)

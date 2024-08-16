@@ -17,7 +17,7 @@
    * Retorna la suma de todos los parametros
 <br />
 <br /> 
-4. Escribir una función llamada saludar.
+4. nEscribir una función llamada saludar.
    * Debe recibir un parametro llamado nombre
    * El valor por defecto para el parametro nombre es "Desconocido"
    * La función retorna el mensaje "Hola <nombre>"
